@@ -24,6 +24,5 @@ total_paid = total_paid + principal
 principal = 0
 
 print(f'Total paid {round(total_paid, 2)} in {month} Months')
-# print('Total paid', round(total_paid, 2))
-# print('Months', month)
+
 
